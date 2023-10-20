@@ -54,6 +54,7 @@
 		040FADD52AD53975008E26EC /* weakStrongUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = weakStrongUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		040FADD92AD53975008E26EC /* weakStrongUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = weakStrongUITests.m; sourceTree = "<group>"; };
 		040FADDB2AD53975008E26EC /* weakStrongUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = weakStrongUITestsLaunchTests.m; sourceTree = "<group>"; };
+		04FEBEA32AE25C7B000623F2 /* MacroDefine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MacroDefine.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +116,7 @@
 				040FADC12AD53975008E26EC /* LaunchScreen.storyboard */,
 				040FADC42AD53975008E26EC /* Info.plist */,
 				040FADC52AD53975008E26EC /* main.m */,
+				04FEBEA32AE25C7B000623F2 /* MacroDefine.h */,
 			);
 			path = weakStrong;
 			sourceTree = "<group>";
